@@ -67,3 +67,10 @@ There are 3 steps to run the application:
    cd report/
    python3 sendEmail.py
    ```
+
+## <ins>Hardware Configuration</ins>
+
+<img src="./hardware_photos/full_refrigerator.jpeg" width="45%" />&nbsp;
+<img src="./hardware_photos/inside_refrigerator.jpeg" width="45%" />&nbsp;
+<img src="./hardware_photos/front_open_refrigerator.jpeg" width="45%" />&nbsp;
+<img src="./hardware_photos/side_refrigerator.jpeg" width="45%" />
